@@ -1,4 +1,4 @@
-Boas vindas ao meu perfil 💙💙
+Boas vindas ao meu perfil 
 Meu nome é Felipe Reboucas
 
 Estou estudando na Alura
@@ -9,4 +9,5 @@ alurastartestudante@email.com
 
 @alurastartestudante
 
-https://media1.tenor.com/m/nfcHkpstD4cAAAAC/welcome.gif
+
+https://media1.tenor.com/m/wZEkIgZfbW8AAAAC/gtr-car.gif
