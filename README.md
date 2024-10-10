@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 
-Meu nome é Felipe Reboucas
+Meu nome é Gabryell
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
