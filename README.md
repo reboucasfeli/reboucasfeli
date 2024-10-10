@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 
-Meu nome é Gabryell
+Meu nome é Felipe
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
